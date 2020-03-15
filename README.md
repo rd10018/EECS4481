@@ -5,4 +5,5 @@ This application is an upgrade of the chat application from the following udemy 
 
 TO RUN THE APPLICATION :
   npm run start --> for running node 
+  
   npm run dev --> for running nodemon
